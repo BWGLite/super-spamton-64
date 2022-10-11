@@ -11,6 +11,11 @@ replay Super Mario 64 in an adventure fit for a real BIG SHOT!
 Comes with a fully featured, console-compatible Nintendo 64 version,
 and a version for the Super Mario 64 PC Port (sm64ex-nightly) with 8 alternate costumes to choose!
 
+# Downloading
+
+To download, click the 'Super Spamton 64.zip' file at the top of this page.
+On the page you are brought to, click the Download button on the right side of the page.
+
 # Using the Nintendo 64 Version
 
 Needed
