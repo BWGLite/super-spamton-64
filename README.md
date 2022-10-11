@@ -16,8 +16,8 @@ and a version for the Super Mario 64 PC Port (sm64ex-nightly) with 8 alternate c
 Needed
 
 	-Floating IPS (Program version or Online version)
-		-Program Version <https://www.smwcentral.net/?a=details&id=11474&p=section>
-		-Online Version <https://www.smwcentral.net/?p=onlinetools&tool=flips>
+		-Program Version https://www.smwcentral.net/?a=details&id=11474&p=section
+		-Online Version https://www.smwcentral.net/?p=onlinetools&tool=flips
 		-Other BPS Patchers should work, as well
 	-Super Mario 64 US ROM
 	-Nintendo 64 Emulator
