@@ -51,7 +51,7 @@ Using Floating IPS Online:
 -Spamton's face is crooked!
 
 	Certain Video Plugins don't properly emulate the point texture filtering used on Spamton's face.
-		If in Project 64, go to Options>Configuration, and under Plugins, set the Video pluging to GlideN64
+		If in Project 64, go to Options>Configuration, and under Plugins, set the Video plugin to GlideN64
 		
 		If in Bizhawk, go to N64>Plugins, and set Active Video Plugin to GlideN64
 
