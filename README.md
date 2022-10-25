@@ -1,6 +1,6 @@
 # SUPER SPAMTON 64 By BWGLite
 
-Release 1.0 (Previous, model only release went by 'Spamton in Super Mario 64')
+Release 1.1 (February's model only release went by 'Spamton in Super Mario 64')
 
 That's it, it's time for a BIG SHOT!
 
@@ -25,6 +25,7 @@ Needed
 		-Online Version https://www.smwcentral.net/?p=onlinetools&tool=flips
 		-Other BPS Patchers should work, as well
 	-Super Mario 64 US ROM
+		(One cannot be provided, you will have to aquire one yourself. Make sure it's in .z64 format, not .n64)
 	-Nintendo 64 Emulator
 		-Recommended Emulators are Project64, Bizhawk using Mupen64Plus core
 		-Recommended to use GlideN64 Video Plugin (available in Project64 and Bizhawk)
@@ -51,7 +52,7 @@ Using Floating IPS Online:
 -Spamton's face is crooked!
 
 	Certain Video Plugins don't properly emulate the point texture filtering used on Spamton's face.
-		If in Project 64, go to Options>Configuration, and under Plugins, set the Video pluging to GlideN64
+		If in Project 64, go to Options>Configuration, and under Plugins, set the Video plugin to GlideN64
 		
 		If in Bizhawk, go to N64>Plugins, and set Active Video Plugin to GlideN64
 
@@ -104,3 +105,8 @@ Of course, DELTARUNE, UNDERTALE, and Spamton all belong to Toby Fox.
 Have fun, and thank you for playing!!!
 
 [@BWGLite](https://twitter.com/BWGLite) on Twitter
+
+1.1 Changes:
+
+	-Updated Dialog to fix a few typos, and changed a few lines of dialog
+	-Added a new song for the Endless Staircase
