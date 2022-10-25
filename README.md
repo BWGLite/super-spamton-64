@@ -1,4 +1,5 @@
 # SUPER SPAMTON 64 By BWGLite
+[Trailer](https://youtu.be/-yzqjtVBM_c)
 
 Release 1.1 (February's model only release went by 'Spamton in Super Mario 64')
 
